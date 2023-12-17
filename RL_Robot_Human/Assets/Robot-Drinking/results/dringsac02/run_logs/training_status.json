@@ -1,0 +1,47 @@
+{
+    "RobotAgent": {
+        "checkpoints": [
+            {
+                "steps": 1499046,
+                "file_path": "results\\dringsac02\\RobotAgent\\RobotAgent-1499046.onnx",
+                "reward": null,
+                "creation_time": 1619640858.5165281
+            },
+            {
+                "steps": 1999569,
+                "file_path": "results\\dringsac02\\RobotAgent\\RobotAgent-1999569.onnx",
+                "reward": null,
+                "creation_time": 1619642108.6750536
+            },
+            {
+                "steps": 2499847,
+                "file_path": "results\\dringsac02\\RobotAgent\\RobotAgent-2499847.onnx",
+                "reward": null,
+                "creation_time": 1619643348.2520914
+            },
+            {
+                "steps": 2999691,
+                "file_path": "results\\dringsac02\\RobotAgent\\RobotAgent-2999691.onnx",
+                "reward": 27.992973685264587,
+                "creation_time": 1619644525.8431616
+            },
+            {
+                "steps": 3000070,
+                "file_path": "results\\dringsac02\\RobotAgent\\RobotAgent-3000070.onnx",
+                "reward": 30.361320352554323,
+                "creation_time": 1619644525.9721675
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3000070,
+            "file_path": "results\\dringsac02\\RobotAgent.onnx",
+            "reward": 30.361320352554323,
+            "creation_time": 1619644525.9721675
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

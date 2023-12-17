@@ -1,0 +1,35 @@
+{
+    "HumanHeadAction": {
+        "checkpoints": [
+            {
+                "steps": 499993,
+                "file_path": "results\\humanaction03\\HumanHeadAction\\HumanHeadAction-499993.onnx",
+                "reward": -1.0,
+                "creation_time": 1619534999.4551725
+            },
+            {
+                "steps": 999999,
+                "file_path": "results\\humanaction03\\HumanHeadAction\\HumanHeadAction-999999.onnx",
+                "reward": -1.0,
+                "creation_time": 1619535922.7920403
+            },
+            {
+                "steps": 1000004,
+                "file_path": "results\\humanaction03\\HumanHeadAction\\HumanHeadAction-1000004.onnx",
+                "reward": -1.0,
+                "creation_time": 1619535922.8640485
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000004,
+            "file_path": "results\\humanaction03\\HumanHeadAction.onnx",
+            "reward": -1.0,
+            "creation_time": 1619535922.8640485
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}

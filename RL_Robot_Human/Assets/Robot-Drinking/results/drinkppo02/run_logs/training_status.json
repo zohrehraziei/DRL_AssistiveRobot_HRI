@@ -1,0 +1,47 @@
+{
+    "RobotAgent": {
+        "checkpoints": [
+            {
+                "steps": 1499964,
+                "file_path": "results\\drinkppo02\\RobotAgent\\RobotAgent-1499964.onnx",
+                "reward": 89.3645412127177,
+                "creation_time": 1619633127.5549083
+            },
+            {
+                "steps": 1999970,
+                "file_path": "results\\drinkppo02\\RobotAgent\\RobotAgent-1999970.onnx",
+                "reward": 34.315042678798946,
+                "creation_time": 1619634199.40862
+            },
+            {
+                "steps": 2499983,
+                "file_path": "results\\drinkppo02\\RobotAgent\\RobotAgent-2499983.onnx",
+                "reward": 41.361834232623764,
+                "creation_time": 1619635297.1189282
+            },
+            {
+                "steps": 2999942,
+                "file_path": "results\\drinkppo02\\RobotAgent\\RobotAgent-2999942.onnx",
+                "reward": 35.553993195295334,
+                "creation_time": 1619636427.3365507
+            },
+            {
+                "steps": 3000072,
+                "file_path": "results\\drinkppo02\\RobotAgent\\RobotAgent-3000072.onnx",
+                "reward": 33.79682204458449,
+                "creation_time": 1619636427.4271286
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3000072,
+            "file_path": "results\\drinkppo02\\RobotAgent.onnx",
+            "reward": 33.79682204458449,
+            "creation_time": 1619636427.4271286
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

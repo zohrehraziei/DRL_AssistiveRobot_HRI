@@ -1,0 +1,58 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.9f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.9f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=12919 outsize=1863 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11985 outsize=1502 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17013 outsize=3147 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1579 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=2029 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1287 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1310 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1359 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1397 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1287 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1819 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1848 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1301 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1680 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=629 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1157 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=701 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1113 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=786 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1137 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1300 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1288 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1618 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1828 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1296 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79371 outsize=35257 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1602 outsize=6158 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL _EMISSION _NORMALMAP _METALLICGLOSSMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+
+Quitting shader compiler process

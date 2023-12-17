@@ -1,0 +1,60 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.9f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.9f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=12919 outsize=1579 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11985 outsize=1465 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17013 outsize=5733 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=2795 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1407 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1287 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1310 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1359 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1397 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1384 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=2259 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1997 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1302 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=2477 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=638 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=854 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=716 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1313 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1861 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1336 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1618 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1397 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1384 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79371 outsize=2787 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79371 outsize=4420 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79371 outsize=3084 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79371 outsize=3725 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4442 outsize=1590 ok=1
+
+Quitting shader compiler process

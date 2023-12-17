@@ -1,0 +1,54 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.9f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.9f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=12919 outsize=1579 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11985 outsize=1905 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17013 outsize=3140 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=2795 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1431 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1324 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1321 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1777 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1380 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1823 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1851 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1326 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=3544 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74735 outsize=1382 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=680 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1023 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=986 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=677 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1229 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1457 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1311 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1596 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=57129 outsize=1287 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79371 outsize=24465 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=11846 outsize=4538 kw=SHADOWS_SPLIT_SPHERES SHADOWS_SINGLE_CASCADE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+
+Quitting shader compiler process

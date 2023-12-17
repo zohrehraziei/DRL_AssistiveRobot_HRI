@@ -1,0 +1,47 @@
+{
+    "RobotFeedAgent": {
+        "checkpoints": [
+            {
+                "steps": 1499957,
+                "file_path": "results\\robotfeedppo1\\RobotFeedAgent\\RobotFeedAgent-1499957.onnx",
+                "reward": 59.31901930272579,
+                "creation_time": 1624246657.8665373
+            },
+            {
+                "steps": 1999981,
+                "file_path": "results\\robotfeedppo1\\RobotFeedAgent\\RobotFeedAgent-1999981.onnx",
+                "reward": 62.46058237552643,
+                "creation_time": 1624247084.4230492
+            },
+            {
+                "steps": 2499988,
+                "file_path": "results\\robotfeedppo1\\RobotFeedAgent\\RobotFeedAgent-2499988.onnx",
+                "reward": 68.84579086303711,
+                "creation_time": 1624247507.9025826
+            },
+            {
+                "steps": 2999950,
+                "file_path": "results\\robotfeedppo1\\RobotFeedAgent\\RobotFeedAgent-2999950.onnx",
+                "reward": null,
+                "creation_time": 1624247928.4571745
+            },
+            {
+                "steps": 3000440,
+                "file_path": "results\\robotfeedppo1\\RobotFeedAgent\\RobotFeedAgent-3000440.onnx",
+                "reward": 104.54498147964478,
+                "creation_time": 1624247928.5329432
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3000440,
+            "file_path": "results\\robotfeedppo1\\RobotFeedAgent.onnx",
+            "reward": 104.54498147964478,
+            "creation_time": 1624247928.5329432
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

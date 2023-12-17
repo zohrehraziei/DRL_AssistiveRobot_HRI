@@ -1,0 +1,29 @@
+{
+    "HumanAction": {
+        "checkpoints": [
+            {
+                "steps": 499994,
+                "file_path": "results\\humanaction7\\HumanAction\\HumanAction-499994.onnx",
+                "reward": -0.5555555555555556,
+                "creation_time": 1618929946.175063
+            },
+            {
+                "steps": 500149,
+                "file_path": "results\\humanaction7\\HumanAction\\HumanAction-500149.onnx",
+                "reward": -0.5789473684210527,
+                "creation_time": 1618929946.246067
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500149,
+            "file_path": "results\\humanaction7\\HumanAction.onnx",
+            "reward": -0.5789473684210527,
+            "creation_time": 1618929946.246067
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

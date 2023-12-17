@@ -1,0 +1,29 @@
+{
+    "HumanAgent": {
+        "checkpoints": [
+            {
+                "steps": 499993,
+                "file_path": "results\\human2\\HumanAgent\\HumanAgent-499993.onnx",
+                "reward": 11.333750051259994,
+                "creation_time": 1621006910.1587486
+            },
+            {
+                "steps": 500137,
+                "file_path": "results\\human2\\HumanAgent\\HumanAgent-500137.onnx",
+                "reward": 10.695749203715705,
+                "creation_time": 1621006910.2387402
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500137,
+            "file_path": "results\\human2\\HumanAgent.onnx",
+            "reward": 10.695749203715705,
+            "creation_time": 1621006910.2387402
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

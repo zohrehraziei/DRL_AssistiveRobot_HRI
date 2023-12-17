@@ -1,0 +1,29 @@
+{
+    "RobotAgent": {
+        "checkpoints": [
+            {
+                "steps": 499983,
+                "file_path": "results\\=robot_ppo1\\RobotAgent\\RobotAgent-499983.onnx",
+                "reward": 5.357162142920698,
+                "creation_time": 1618936907.9917874
+            },
+            {
+                "steps": 959667,
+                "file_path": "results\\=robot_ppo1\\RobotAgent\\RobotAgent-959667.onnx",
+                "reward": null,
+                "creation_time": 1618937369.046188
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 959667,
+            "file_path": "results\\=robot_ppo1\\RobotAgent.onnx",
+            "reward": null,
+            "creation_time": 1618937369.046188
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
