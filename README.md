@@ -18,7 +18,7 @@ This repository is dedicated to enhancing assistive robots through human-in-the-
 - **Deep RL Architecture**: Implementing Proximal Policy Optimization (PPO) and Soft Actor-Critic (SAC) using the Unity ML-Agent plugin for non-stationary human-agent collaboration.
 - **Robotic Simulation Environment**: Defined in Unity3D with Unity-ML-Agent, allowing for complex modeling of human-robot interactions. Refer to Bartneck et al. (2015) for further details.
 - **Challenges and Previous Approaches**: Addressing the limitations of modeling complex behaviors in assistive robots, and comparing with existing solutions like the Assistive Gym toolkit.
-![Digram for HRI Collboration](Diagrams-Human-Robot-Training.jpg)
+![Digram for HRI Collboration](Diagrams-Human-Robot-Training.pdf)
 ### Research Assumptions
 - **Robot as an Agent**: Training the robot for various positions correlating to human mouth reachability.
 - **Human as a Non-Stationary Object**: Interaction dynamics include head rotation and Look-At-Face functions.
