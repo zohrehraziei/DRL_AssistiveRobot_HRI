@@ -19,7 +19,7 @@ This repository is dedicated to enhancing assistive robots through human-in-the-
 - **Robotic Simulation Environment**: Defined in Unity3D with Unity-ML-Agent, allowing for complex modeling of human-robot interactions. Refer to Bartneck et al. (2015) for further details.
 - **Challenges and Previous Approaches**: Addressing the limitations of modeling complex behaviors in assistive robots, and comparing with existing solutions like the Assistive Gym toolkit.
 
-![Assistive Robot Simulation](path/to/your/image.jpg) <!-- Replace with the actual path to your image -->
+![Digram for HRI Collboration](Diagrams-Human-Robot Training.jpg)
 
 ### Research Assumptions
 - **Robot as an Agent**: Training the robot for various positions correlating to human mouth reachability.
