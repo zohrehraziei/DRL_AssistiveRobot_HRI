@@ -31,6 +31,29 @@ This repository is dedicated to enhancing assistive robots through human-in-the-
 #### Note: 
 Modeling the Sawyer robot asset, improving RL algorithms, and integrating realistic human feedback mechanisms pose significant challenges. While previous approaches have utilized frameworks like OpenAI Gym, our work focuses on scaling these concepts for more complex behaviors learned through human interaction.
 
+### Unity ML-Agents Project Setup Guide
+Follow these steps to set up your Unity project with ML-Agents for robot-human interaction simulation:
+
+1. **Clone and Install Dependencies**:
+   - Clone the the repository from GitHub.
+   - Download and install Unity Hub from [Unity's official site](https://unity.com/download).
+   - Install Unity version 2020.2.0 via Unity Hub.
+
+2. **Project and Environment Configuration**:
+   - Create a new 3D project in Unity.
+   - Install ML-Agents within Unity using the Package Manager.
+   - Copy the necessary assets from the cloned the repository into your Unity project’s Asset folder.
+
+3. **Scene and Object Setup**:
+   - Import the Robot Sawyer model (OBJ format) and set up its materials.
+   - Implement control scripts for the Sawyer robot's axes.
+   - Install the UMA package for the human model and add it to the scene, ensuring the model has appropriate clothing and animations.
+
+4. **Simulation and Training Preparation**:
+   - Set up simulation elements such as axis scripts, end-effector, and collision detectors for fail state detection.
+   - Configure the entire agent environment in Unity, focusing on interactions between the robot and the human model.
+   - Prepare the project for the training of both robot and human agents using Unity ML-Agents.
+
 ### References
 - Windrich, M., et al. (2016). "Active lower limb prosthetics: A systematic review of design issues and solutions." Biomedical Engineering Online.
 - Yan, T., et al. (2015). "Review of assistive strategies in powered lower-limb orthoses and exoskeletons." Robotics and Autonomous Systems.
